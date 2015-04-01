@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PatientHelper</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="addbutton">إضافة موعدك</string>
+    <string name="viewbutton">عرض مواعيدك</string>
+    <string name="drugname">اسم الدواء</string>
+    <string name="dosenumber">عدد الجرعات</string>
+    <string name="startdrug">بداية وقت دوائك</string>
+    <string name="drugperiod">مدة دوائك بالأيام</string>
+    <string name="drugnamefield" />
+    <string name="dosenumberfield" />
+    <string name="startdrugfield" />
+    <string name="drugperiodfield" />
+    <string name="addnewappointment">أضف الموعد</string>
+
+
+
+</resources>
